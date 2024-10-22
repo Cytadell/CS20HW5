@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<products>
+        <product>
+                <name>Red Orange</name>
+                <price>3.10</price>
+                <description>
+                        Includes one pound (1 lb) of Red Oranges picked
+                        fresh from O'Kerry's Orange Farm. 
+                </description>
+                <catagories>
+                        <catagory>Fruit</catagory>
+                        <catagory>Food</catagory>
+                </catagories>
+        </product>
+        <product>
+                <name>Chicken Thighs</name>
+                <price>2.90</price>
+                <description>
+                        1 pound of free-Ranged Chicken Thighs, GMO free 
+                </description>
+                <catagories>
+                        <catagory>Meat</catagory>
+                        <catagory>Food</catagory>
+                </catagories>
+        </product>
+        <product>
+                <name>Cast Iron Pan</name>
+                <price>25.23</price>
+                <description>
+                        12-inch Cast Iron Pan that contains and spreads heat out evenly.
+                </description>
+                <catagories>
+                        <catagory>Kitchen Supplies</catagory>
+                        <catagory>Non-Food</catagory>
+                </catagories>
+        </product>
+        <product>
+                <name>Granny Smith Apples</name>
+                <price>3.23</price>
+                <description>
+                        Includes one pound (1 lb) of Granny Smith Apples picked
+                        fresh from Ms.Smith's Garden by Granny Smith herself.
+                </description>
+                <catagories>
+                        <catagory>Fruit</catagory>
+                        <catagory>Food</catagory>
+                </catagories>
+        </product>
+
+        <product>
+                <name>Baby Carrots</name>
+                <price>5.23</price>
+                <description>
+                        Includes a 3 pound (3 lb) bag of Organic Carrots
+                </description>
+                <catagories>
+                        <catagory>Vegetable</catagory>
+                        <catagory>Food</catagory>
+                </catagories>
+        </product>
+
+        <product>
+                <name>Garlic Powder</name>
+                <price>6.15</price>
+                <description>
+                        12 oz of long-lasting McNot-MCCormick Garlic Powder
+                </description>
+                <catagories>
+                        <catagory>Spice</catagory>
+                        <catagory>Non-Food</catagory>
+                </catagories>
+        </product>
+
+        <product>
+                <name>Rib-eye Steak</name>
+                <price>25.40</price>
+                <description>
+                        2lb of free-Ranged Rib-eye Steak from Japan
+                </description>
+                <catagories>
+                        <catagory>Meat</catagory>
+                        <catagory>Food</catagory>
+                </catagories>
+        </product>
+
+        <product>
+                <name>Whole Wheel of Parmesaen</name>
+                <price>939.99</price>
+                <description>
+                        72lb Wheel of Parmigiano from the Parma and 
+                        Reggio Emilio provinces in Italy.
+                </description>
+                <catagories>
+                        <catagory>Dairy</catagory>
+                        <catagory>Food</catagory>
+                </catagories>
+        </product>
+
+</products>
